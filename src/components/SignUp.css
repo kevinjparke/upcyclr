@@ -1,0 +1,51 @@
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container height to full viewport height */
+  }
+  
+  .signup-card {
+    width: 400px; /* Set the width of the card */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+  
+  @media (max-width: 480px) {
+    .signup-card {
+      width: 100%; /* Adjust the width on smaller screens */
+    }
+  }
+  
+  .signup-title {
+    font-size: 24px; /* Increase the font size of the title */
+    margin-bottom: 20px; /* Add space between title and fields */
+    text-align: center;
+  }
+  
+  .form-input {
+    /* Add styling to input fields and labels */
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .signup-button {
+    /* Add styling to the button */
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .signup-button:hover {
+    background-color: #0056b3;
+  }
+  

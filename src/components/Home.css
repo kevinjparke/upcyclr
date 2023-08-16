@@ -1,0 +1,52 @@
+.home-background-container {
+    min-height: 175vh;
+    background-image: url("../Assets/recycling.jpg");
+    /* background-size: 100vw auto; */
+}
+button {
+    background-color: #008c59;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    border-radius: 5px;
+  }
+.banner {
+    margin-top: 75px !important;
+    width: 60vw !important;
+    background-color: white;
+    border-bottom: 3px solid #008c59;
+    height: 200px;
+}
+.account-card {
+    background-color: lightblue;
+}
+
+.login-button {
+    margin-top: 45px !important;
+}
+.banner-container {
+    display: flex;
+    justify-content: center;
+}
+.banner-button {
+    display: flex;
+    justify-content: space-evenly;
+}
+.search-button {
+    width: fit-content;
+    margin-top: 10px !important;
+    height: fit-content;
+}
+.recycle-news {
+    background-color: white;
+    width: 100vw !important;
+    margin-top: 50px !important;
+    padding: 0px 40px;
+}
+.card-image {
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,10 @@
+.account-card {
+    background-color: lightblue;
+}
+
+.account-background {
+    background-image: url("../Assets/recycling.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+

@@ -1,0 +1,40 @@
+{
+    "id": "2974932uihsdfk3824",
+
+    "user": {
+      "id": "3984729347923",
+      "name": "Falgun Thakwani"
+    },
+
+    "pickup_address": {
+      "street": "1333 South Park St.",
+      "unit": "1403",
+      "city": "Halifax",
+      "postal": "B3J2K9"
+    },
+
+    "pickup_start_ts": "2023-07-28 10:00:00",
+    "pickup_end_ts": "2023-07-28 17:00:00",
+    "pickup_ts": "2023-07-28 16:00:00",
+
+    "pickup_by": {
+      "name": "Ronil Patel",
+      "contact": "7823334390"
+    },
+
+    "request_status":"scheduled", 
+    "reward": 0,
+
+    "items_in_bag":[
+      {
+        "type": "Plastic",
+        "weight": 5,
+        "unit": "kilograms"
+      },
+      {
+        "type":"Clothes",
+        "weight": 3,
+        "unit": "kilograms"
+      }
+    ]    
+}
